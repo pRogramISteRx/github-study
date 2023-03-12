@@ -271,20 +271,20 @@ getDecimal(4.5);
 // console.log(regex1);
 
 
-// function isIsogram(str){
-//   str = str.toLowerCase();
-//   for(let i = 0; i < str.length; i++){
+function isIsogram(str){
+  str = str.toLowerCase();
+  for(let i = 0; i < str.length; i++){
     
-//     for(let j = i + 1; j < str.length; j++){
-//       // console.log(str[j]);
-//       if(str[i] === str[j]){
-//         console.log('false');
-//         return false;
-//       }
-//     }
-//   }
-//   // console.log('true');
-//   return true;
-// }
+    for(let j = i + 1; j < str.length; j++){
+      // console.log(str[j]);
+      if(str[i] === str[j]){
+        console.log('false');
+        return false;
+      }
+    }
+  }
+  // console.log('true');
+  return true;
+}
 
-// isIsogram("avd");
+isIsogram("avd");
