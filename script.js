@@ -289,4 +289,4 @@ function isIsogram(str){
 
 isIsogram("avd");
 
-let clear;
+let trying;
