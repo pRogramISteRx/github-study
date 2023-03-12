@@ -291,3 +291,4 @@ isIsogram("avd");
 
 let trying;
 let terminal;
+let gitbash;
