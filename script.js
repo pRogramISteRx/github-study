@@ -290,3 +290,4 @@ function isIsogram(str){
 isIsogram("avd");
 
 let trying;
+let terminal;
