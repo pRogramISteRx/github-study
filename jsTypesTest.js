@@ -1,6 +1,6 @@
-let variable = 12 && '12';
+// let variable = 12 && '12';
 
-console.log(typeof variable);
+// console.log(typeof variable);
 
 // 1. console.log({}=={});
 
