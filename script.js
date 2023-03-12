@@ -289,9 +289,4 @@ function isIsogram(str){
 
 isIsogram("avd");
 
-let omg;
-let omg2;
-let omg3;
-let omg4;
-let omggggggggggg;
-let maybe;
+let clear;
